@@ -1,8 +1,8 @@
 # Code to determine if the student pass or fail.
-student_name=input("Please input the student name")
+student_name=input("Please input the student nam")
 subject1_=int(input ("Input the marks for maths"))
 subject2_=int(input("Input the marks for physics"))
-subject3_=int(input("Input the marks for chemistry"))
+subject3_=int(input("Input the marks for chemystry"))
 subject4_=int(input("Input the marks for chemistry"))
 average=(subject1_ + subject2_ + subject3_+ subject4_)/4
 # The while loop without the break function
