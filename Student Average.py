@@ -1,5 +1,5 @@
 # Code to determine if the student pass or fail.
-student_name=input("Please input the student nam")
+student_name=input("Please input the student name")
 subject1_=int(input ("Input the marks for maths"))
 subject2_=int(input("Input the marks for physics"))
 subject3_=int(input("Input the marks for chemystry"))
